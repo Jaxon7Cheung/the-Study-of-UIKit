@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A46691B1-573E-4E86-9835-B32CFEFFE5F9"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "22CBAE41-2C1D-40EF-B7E4-4A2C9907FE67"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AFNetworking&#x4f7f;&#x7528;/URLRequest.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "-dataLoader"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "22CBAE41-2C1D-40EF-B7E4-4A2C9907FE67 - 8e7767faf4219bbf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__24-[URLRequest dataLoader]_block_invoke"
+                  moduleName = "AFNetworking&#x4f7f;&#x7528;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakey/Desktop/CS/Xcode/UIKit%E5%A4%8D%E7%9B%98/AFNetworking%E4%BD%BF%E7%94%A8/AFNetworking%E4%BD%BF%E7%94%A8/URLRequest.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "22CBAE41-2C1D-40EF-B7E4-4A2C9907FE67 - f24897a6194a8d92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__24-[URLRequest dataLoader]_block_invoke_2"
+                  moduleName = "AFNetworking&#x4f7f;&#x7528;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakey/Desktop/CS/Xcode/UIKit%E5%A4%8D%E7%9B%98/AFNetworking%E4%BD%BF%E7%94%A8/AFNetworking%E4%BD%BF%E7%94%A8/URLRequest.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "22CBAE41-2C1D-40EF-B7E4-4A2C9907FE67 - f24897a6194a8d92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__24-[URLRequest dataLoader]_block_invoke_2"
+                  moduleName = "AFNetworking&#x4f7f;&#x7528;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakey/Desktop/CS/Xcode/UIKit%E5%A4%8D%E7%9B%98/AFNetworking%E4%BD%BF%E7%94%A8/AFNetworking%E4%BD%BF%E7%94%A8/URLRequest.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09E00FA0-5C6B-431C-B3B5-BAEF5765A610"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AFNetworking&#x4f7f;&#x7528;/URLRequest.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "-dataLoader"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "09E00FA0-5C6B-431C-B3B5-BAEF5765A610 - f24897a6194a9a5f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__24-[URLRequest dataLoader]_block_invoke_3"
+                  moduleName = "AFNetworking&#x4f7f;&#x7528;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakey/Desktop/CS/Xcode/UIKit%E5%A4%8D%E7%9B%98/AFNetworking%E4%BD%BF%E7%94%A8/AFNetworking%E4%BD%BF%E7%94%A8/URLRequest.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "09E00FA0-5C6B-431C-B3B5-BAEF5765A610 - f24897a6194a9a38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__24-[URLRequest dataLoader]_block_invoke_3"
+                  moduleName = "AFNetworking&#x4f7f;&#x7528;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakey/Desktop/CS/Xcode/UIKit%E5%A4%8D%E7%9B%98/AFNetworking%E4%BD%BF%E7%94%A8/AFNetworking%E4%BD%BF%E7%94%A8/URLRequest.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9FFD9C1-C616-4A56-9CA3-73CD956AB94D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AFNetworking&#x4f7f;&#x7528;/URLRequest.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "-dataLoader"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F9FFD9C1-C616-4A56-9CA3-73CD956AB94D - f24897a6194a8d92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__24-[URLRequest dataLoader]_block_invoke_2"
+                  moduleName = "AFNetworking&#x4f7f;&#x7528;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakey/Desktop/CS/Xcode/UIKit%E5%A4%8D%E7%9B%98/AFNetworking%E4%BD%BF%E7%94%A8/AFNetworking%E4%BD%BF%E7%94%A8/URLRequest.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "F9FFD9C1-C616-4A56-9CA3-73CD956AB94D - f24897a6194a9a5f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__24-[URLRequest dataLoader]_block_invoke_3"
+                  moduleName = "AFNetworking&#x4f7f;&#x7528;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakey/Desktop/CS/Xcode/UIKit%E5%A4%8D%E7%9B%98/AFNetworking%E4%BD%BF%E7%94%A8/AFNetworking%E4%BD%BF%E7%94%A8/URLRequest.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "F9FFD9C1-C616-4A56-9CA3-73CD956AB94D - f24897a6194a8d92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__24-[URLRequest dataLoader]_block_invoke_2"
+                  moduleName = "AFNetworking&#x4f7f;&#x7528;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakey/Desktop/CS/Xcode/UIKit%E5%A4%8D%E7%9B%98/AFNetworking%E4%BD%BF%E7%94%A8/AFNetworking%E4%BD%BF%E7%94%A8/URLRequest.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

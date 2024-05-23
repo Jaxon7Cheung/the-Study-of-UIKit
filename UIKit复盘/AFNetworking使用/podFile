@@ -1,0 +1,4 @@
+target 'AFNetworking使用' do
+    use_frameworks!
+    pod 'AFNetworking'
+end
